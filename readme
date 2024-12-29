@@ -5,7 +5,7 @@ Was asked to create a flex program that recognizes :
 4. Reserved words
 5. Operators
 
-It was also requested to ignore the one or multiple lines comments.
+It was also requested to ignore one or multiple lines comments.
 
-In order to run the program, download the repository and type make in your command line prompt.
+In order to run the program, download the repository and type "make" in your command line prompt.
 In case you want to test this on your own, just remove the "input.txt" and "ouput.txt" from the Makefile.
